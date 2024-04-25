@@ -20,4 +20,3 @@ int func_add(int a, int b)
 	// one more change 
 	return a+b;
 }
-//This is the second edit
